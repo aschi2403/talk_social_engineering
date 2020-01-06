@@ -1,6 +1,6 @@
 # Social Engineering
 ## Einleitung
-Dieses Referat beschäftigt sich nicht mit der üblichen Auflistung von Social Engineering gibt es. Denn zum einen kennen Sie diese, zumindest teilweise, schon von den anderen Referaten, weiters ist es doch viel interessanter ein wenig hinter die Kullisen zu blicken und sich die Frage zu stellen "Warum funktionieren Social Engineering Angriffe eigentlich?".
+Dieses Referat beschäftigt sich nicht mit der üblichen Auflistung der Arten von Social Engineering gibt es. Denn zum einen kennen Sie diese, zumindest teilweise, schon von den anderen Referaten, weiters ist es doch viel interessanter ein wenig hinter die Kullisen zu blicken und sich die Frage zu stellen "Warum funktionieren Social Engineering Angriffe eigentlich?".
 Doch zuerst trozdem eine kurze Klarstellung worum es sich bei Social Engineering überhaupt handelt.
 
 ## Was ist Social Engineering eigentlich?
