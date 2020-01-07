@@ -11,7 +11,8 @@ marp: true
 ---
 
 # Was sind Informationen?
-"auf Anfrage erteilte über alles Wissenswerte inKenntnis setzende [...] Mitteilung über etwas".
+"auf Anfrage erteilte über alles Wissenswerte in Kenntnis setzende [...] Mitteilung über etwas".
+
 ---
 
 # Wie "leicht" Social Engineering oft ist!
